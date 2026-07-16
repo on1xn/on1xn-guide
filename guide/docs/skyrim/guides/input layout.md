@@ -1,0 +1,140 @@
+
+# Blind Skyrim Gamepad Layout V. 1 by ON1XN
+
+This Steam Input layout aims to enhance your gameplay with the Skyrim Access mod and make a mage playthrough much easier.
+
+If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
+
+Unfortunately, many gamepad mods on Nexus aren't accessible for Skyrim Access. That's why I decided to create this Steam Input layout to suit my own needs. Who knows? Someone else might benefit from this layout too, enjoying their controller experience without a complex setup. (This may complex any way. But easier than manual set up or mess around with mods like I did.)
+
+As far as I'm concerned, with this layout, you won't need to touch your pouting keyboard at all. (Since you aren't touching your keyboard, she's going to pout—so don't forget to take your keyboard out on a date after playing Skyrim!) 
+
+Yes, I have mapped every single Skyrim Access keybind that used to be exclusive to the keyboard into this layout. As long as they don't change the default keybinds in the future, everything should work perfectly.
+
+Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it works perfectly for me.
+
+> **Note 1:** This layout is not just for a blind mage, you can assign these extra hotkeys to potions, equipment, or any items the game allows you to add to the favorite menu.
+> **Note 2:** I created this layout using my Xbox controller. If you're using a PS4 or PS5 controller, I assume everything should work as expected too, since Steam supports them. The only difference here is that I'll be using Xbox notation for each keybind.
+
+---
+
+## Requirements
+
+Before using this Steam Input layout, there are two requirements you need to prepare:
+
+1. **The game must be on Steam.** This layout is not supported on GOG or anywhere you might have the game.
+2. **Two specific mods must be installed.** Otherwise, my Steam Input layout won't work properly, and weird behaviors await you... heheheh.
+
+Here are the mod pages:
+
+* **Auto Input Switch:** [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/54309)
+* **Extended Hotkey System:** [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/32225)
+
+Load order, I'm not quite sure. But to be safe, *Auto Input Switch* should be placed before *Extended Hotkey System*. Well, in theory, it should be that way, since we need to modify the input system before extending it.
+
+---
+
+## Installing the Steam Input Layout
+
+After both mods have been installed and enabled in your choice of mod manager, you're ready to grab this layout!
+
+1. Open Steam, go to your library, and select Skyrim.
+2. Look for the **"Configure Controller"** button, which is located below the Play and Manage buttons, and click on it.
+3. Find **"Using the game's built-in support Enable Steam Input"** and click on it. Your NVDA should now read: *"Using Steam Input Translation Disable Steam Input"*. Oh, you're almost there!
+And you may need to press NVDA + space to out from their browse mode to move around. If you can't find the text I mentioned on this page. Actually next step too.
+4. Click the link under the **"Current Button Layout"** heading. It should currently be something like the official Skyrim layout from Valve, but the exact name doesn't matter. In this area, there should be a link showing the layout name, along with options to view and edit it. Please click on the layout name itself.
+5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *Blind Skyrim Gamepad V. 1 by ON1XN*. Click on it, download/apply the layout, and you should be good to go!
+
+Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim Gamepad V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
+
+If for any reason you can't get the layout, you can probably Google how to install a Steam Input layout. I'm not an expert at this either, LOL! But I hope the step-by-step guide above helps you out.
+
+---
+
+## Extra Keybinds for Skyrim Access!
+
+Some of these explanations are taken from the official mod's manual. I assume you're already familiar with the default keybinds for Skyrim Access. Since I only added missing options from the original mod, I won't explain everything here, only the keybinds I created. Again, besides the keybinds listed below, the rest remain completely default.
+
+I highly recommend keeping the official mod's GitLab or manual open to read along for the full list of keybinds you need to know.
+
+Here's the official Skyrim Access GitLab to read along: [Skyrim Access](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAcces)
+
+> **A Big Warning:** You should NOT remap any default keys in the MCM (Mod Configuration Menu) of the Skyrim Access mod. Otherwise, it will break and won't work properly. Moreover, if you do, I'll bite you.
+
+* **Right + A** = Report of the selected object.
+* **Right + B** = Open journal.
+* **Right + X** = Select or deselect the current object (sound beacon).
+* **Right + Y** = Enemy health.
+* **Right + LB** = Follow the selected NPC or object.
+* **Right + RS click** = Lock the currently selected NPC or creature.
+* **Right + Back** = Scan the surrounding area or items. *(Please make sure your Num Lock is turned on, otherwise, this won't work. It might be a little clumsy to press, but since Skyrim Access auto-rescans nearby objects pretty reliably, you probably won't use it very often, I guess.)*
+* **Right + Start** = List all active effects.
+* **LS click + Back** = Check the direction you're facing (similar to pressing N on the keyboard). I put it here because I don't use it very often either, but it might be useful in certain situations. Since I rarely use this, the keybind is admittedly a bit hard to press.
+* **LS click + Start** = Teleport back to the nearest walkable ground.
+* **RS click + Back** = Quest-guide authoring tool. I personally didn't use it much, but someone out there might want it.
+
+Actually, I could have mapped some keybinds to RB, LT, and RT to make them easier and more intuitive, but those are attack keys. During my testing, there were minor situations where I accidentally used a weapon, spell, or shout. Yes, and then the guards or nearby NPCs turned around to bite me, or I accidentally swung my Katana at them! Therefore, I decided to block those attack keys. Although those accidents didn't happen often, it's definitely better to avoid them altogether.
+
+---
+
+## Hotkeys
+
+This section is dedicated to hotkeys, combos, or whatever else you want to call them. Yes, you can even call it a cat if you'd like to! Personally, I call it an onion, simply because I want to. 
+This section might take a bit of reading to understand the setup and key combinations, but don't worry, you can take your time reading it through.
+
+Alright, time to get a little bit of a headache. You will need your lovely keyboard to finish this part as well.
+
+I need to warn you beforehand: these hotkeys only swap your equipped spell or gear. They don't mean that pressing an X + X hotkey will automatically cast a spell or swing a weapon, it doesn't work like that. You still need to use **LT** for your left-hand spell/shield, and **RT** for your right-hand weapon/bow/spell.
+
+1. Before creating hotkeys and using this layout, you'll want to rebind **F5** (Quick Save), **F9** (Quick Load), and **F12** (Steam Screenshot) to something else. Otherwise, you might run into issues using this input layout.
+* **Changing F12:** Please open your Steam client, go to your library, select Skyrim, and click on the "Manage" button. After that, click on "Properties." You'll see an option that says "Enable the Steam Overlay while in-game." Uncheck that box.
+* **Note for NVDA users:** Please ensure you don't have the *Speech history review* add-on installed on your NVDA. If you do (like me), please change its shortcut key to something else.
+* **Changing F5 and F9:** This can be done very easily in the in-game control settings. Just use your keyboard to go to Settings > Controls, look for the Quick Save and Quick Load keys, and rebind them to something else. I personally use `[` and `]` respectively. You can follow my setup or rebind them to any keys you don't use at all on your keyboard. And as a reminder, we never recommend using Quick Save and Auto Save in Skyrim anyway, heheheh.
+
+
+2. In-game, add your desired spell, item, potion, or equipment to the favorite menu. I guess you already know how to do this.
+3. Open the favorite menu by pressing **Q**. I think you already know this one too.
+4. Press **Left Ctrl + 1 to 8**, or **F3 to F12** to create a hotkey.
+
+> My layout only supports the key list mentioned above, so don't try to map it to other keys. If you do, I'll spank you.
+
+Once set up, the game will say something like *"Fireball hotkey 1"* for example. And now you're done!
+
+I only use F3 through F12 because Skyrim Access uses **F2** to open the collection menu to learn their keybinds, and I don't know how to change that. I also avoided using **F1** because some mods out there utilize it for instance, mods that use the *SKSE Menu Framework*. Although it doesn't support accessibility at the moment I made this layout, who knows? In the future, the Skyrim Access developer might implement it.
+
+Actually, **F6 through F12** are used by some graphics or photo mode mods, but I assume blind players don't install those mods anyway. (Although I installed them... hmm... what a weird blind?) So this shouldn't be a problem for most players. 
+
+> **Small Note:** If you close and reopen the game and check your favorite menu again, it won't explicitly display the hotkeys you created. But don't be afraid! Everything still works perfectly fine. It just won't announce them like it used to, so you'll need to remember what you've mapped to these hotkeys by yourself. Unfortunately, my poor brain can't remember all 18 hotkeys I made either, waaaa!
+
+This might just be an issue on my game, you might see the hotkey labels or you might not see them at all, I'm not sure. Since I have nearly 100 mods installed, one of them might be causing this without actually breaking my game. Everything should be perfectly fine in your case, I suppose.
+
+### Here are the combinations you need to remember to access the hotkeys you created above:
+
+* **Left + A** = Hotkey 1
+* **Left + B** = Hotkey 2
+* **Left + X** = Hotkey 3
+* **Left + Y** = Hotkey 4
+* **Left + LB** = Hotkey 5 *(This won't break the default Skyrim Access modifier key; I've already tested it.)*
+* **Left + RB** = Hotkey 6
+* **Left + LT** = Hotkey 7
+* **Left + RT** = Hotkey 8
+* **LS click + A** = Hotkey F3
+* **LS click + B** = Hotkey F4
+* **LS click + X** = Hotkey F5
+* **LS click + Y** = Hotkey F6
+* **LS click + LB** = Hotkey F7
+* **LS click + RB** = Hotkey F8
+* **LS click + LT** = Hotkey F9
+* **LS click + RT** = Hotkey F10
+* **Left + RS click** = Hotkey F11
+* **Left + Start** = Hotkey F12
+
+How to use it in real action: Assuming I assigned Fireball to Hotkey 1, when I press **Left + A**, my character will equip Fireball instantly, and I can press **LT** to cast it normally.
+
+It works exactly the same way for weapons. I can assign my sword to Hotkey F5 and my bow to Hotkey F11. When I want to switch between them, I just press **LS click + X** or **Left + RS click** respectively to swap weapons on the fly. And of course, after switching, you can press **RT** to swing or shoot as usual.
+
+Furthermore, you can press the hotkey twice to equip the spell to your right hand, and follow up with other hotkeys to change the spells in both of your hands. This opens up a ton of room for creativity in your mage gameplay!
+
+---
+
+Thanks for reading this long guide. I hope you like it and enjoy playing Skyrim Access without having to touch a keyboard. But don't forget: take your keyboard out for a date. Don't let a girl (your keyboard) cry!

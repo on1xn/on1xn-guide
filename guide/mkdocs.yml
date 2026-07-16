@@ -1,0 +1,7 @@
+site_name: ON1XN Guide
+
+theme:
+  name: material
+
+nav:
+- Skyrim: skyrim/index.md
