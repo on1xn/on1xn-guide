@@ -47,7 +47,6 @@ Thank you for stopping by, and I hope these layouts and guides help you enjoy yo
 
 
 * [The Elder V: Skyrim Special Edition / Aniversary Edition](skyrim/index.md) (Guide and Input Layout)
-* Stardew Valley is coming soon!
 
 ---
 

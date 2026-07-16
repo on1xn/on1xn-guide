@@ -69,11 +69,13 @@ Here's the official Skyrim Access GitLab to read along: [Skyrim Access](https://
 * **Right + RS click** = Lock the currently selected NPC or creature.
 * **Right + Back** = Scan the surrounding area or items. *(Please make sure your Num Lock is turned on, otherwise, this won't work. It might be a little clumsy to press, but since Skyrim Access auto-rescans nearby objects pretty reliably, you probably won't use it very often, I guess.)*
 * **Right + Start** = List all active effects.
-* **LS click + Back** = Check the direction you're facing (similar to pressing N on the keyboard). I put it here because I don't use it very often either, but it might be useful in certain situations. Since I rarely use this, the keybind is admittedly a bit hard to press.
 * **LS click + Start** = Teleport back to the nearest walkable ground.
-* **RS click + Back** = Quest-guide authoring tool. I personally didn't use it much, but someone out there might want it.
+* **RS click + Back** = Check the direction you're facing (similar to pressing N on the keyboard). I put it here because I don't use it very often either, but it might be useful in certain situations.
+
 
 Actually, I could have mapped some keybinds to RB, LT, and RT to make them easier and more intuitive, but those are attack keys. During my testing, there were minor situations where I accidentally used a weapon, spell, or shout. Yes, and then the guards or nearby NPCs turned around to bite me, or I accidentally swung my Katana at them! Therefore, I decided to block those attack keys. Although those accidents didn't happen often, it's definitely better to avoid them altogether.
+
+And I didn't include the quest-guide authoring feature here, because it doesn't affect my gameplay much.
 
 ---
 
@@ -87,20 +89,26 @@ Alright, time to get a little bit of a headache. You will need your lovely keybo
 I need to warn you beforehand: these hotkeys only swap your equipped spell or gear. They don't mean that pressing an X + X hotkey will automatically cast a spell or swing a weapon, it doesn't work like that. You still need to use **LT** for your left-hand spell/shield, and **RT** for your right-hand weapon/bow/spell.
 
 1. Before creating hotkeys and using this layout, you'll want to rebind **F5** (Quick Save), **F9** (Quick Load), and **F12** (Steam Screenshot) to something else. Otherwise, you might run into issues using this input layout.
+
 * **Changing F12:** Please open your Steam client, go to your library, select Skyrim, and click on the "Manage" button. After that, click on "Properties." You'll see an option that says "Enable the Steam Overlay while in-game." Uncheck that box.
+
 * **Note for NVDA users:** Please ensure you don't have the *Speech history review* add-on installed on your NVDA. If you do (like me), please change its shortcut key to something else.
+
 * **Changing F5 and F9:** This can be done very easily in the in-game control settings. Just use your keyboard to go to Settings > Controls, look for the Quick Save and Quick Load keys, and rebind them to something else. I personally use `[` and `]` respectively. You can follow my setup or rebind them to any keys you don't use at all on your keyboard. And as a reminder, we never recommend using Quick Save and Auto Save in Skyrim anyway, heheheh.
 
 
 2. In-game, add your desired spell, item, potion, or equipment to the favorite menu. I guess you already know how to do this.
+
 3. Open the favorite menu by pressing **Q**. I think you already know this one too.
+
 4. Press **Left Ctrl + 1 to 8**, or **F3 to F12** to create a hotkey.
 
 > My layout only supports the key list mentioned above, so don't try to map it to other keys. If you do, I'll spank you.
 
 Once set up, the game will say something like *"Fireball hotkey 1"* for example. And now you're done!
 
-I only use F3 through F12 because Skyrim Access uses **F2** to open the collection menu to learn their keybinds, and I don't know how to change that. I also avoided using **F1** because some mods out there utilize it for instance, mods that use the *SKSE Menu Framework*. Although it doesn't support accessibility at the moment I made this layout, who knows? In the future, the Skyrim Access developer might implement it.
+I only use F3 through F12 because Skyrim Access uses **F2** to open the collection menu to learn their keybinds, and I don't know how to change that. I also avoided using **F1** because some mods out there utilize it. For example mods that use the *SKSE Menu Framework*. 
+Although it doesn't support accessibility at the moment I made this layout, who knows? In the future, the Skyrim Access developer might implement it.
 
 Actually, **F6 through F12** are used by some graphics or photo mode mods, but I assume blind players don't install those mods anyway. (Although I installed them... hmm... what a weird blind?) So this shouldn't be a problem for most players. 
 
@@ -136,5 +144,19 @@ It works exactly the same way for weapons. I can assign my sword to Hotkey F5 an
 Furthermore, you can press the hotkey twice to equip the spell to your right hand, and follow up with other hotkeys to change the spells in both of your hands. This opens up a ton of room for creativity in your mage gameplay!
 
 ---
+
+## Known issues
+
+
+This is a minor issue, but I wanted to mention it here in case you encounter it. (Because I saw it sometimes. as well.)
+
+  If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
+  
+  If you did, you can easily fix this by rebuilding your hotkeys following the instructions in the section above. Setting up the hotkeys again will overwrite and delete the old, accidental mappings, restoring your Left/Right D-pad buttons to their intended behavior in this layout.
+
+---
+
+## Final words
+
 
 Thanks for reading this long guide. I hope you like it and enjoy playing Skyrim Access without having to touch a keyboard. But don't forget: take your keyboard out for a date. Don't let a girl (your keyboard) cry!
