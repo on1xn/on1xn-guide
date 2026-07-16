@@ -43,11 +43,9 @@ After both mods have been installed and enabled in your choice of mod manager, y
 3. Find **"Using the game's built-in support Enable Steam Input"** and click on it. Your NVDA should now read: *"Using Steam Input Translation Disable Steam Input"*. Oh, you're almost there!
 And you may need to press NVDA + space to out from their browse mode to move around. If you can't find the text I mentioned on this page. Actually next step too.
 4. Click the link under the **"Current Button Layout"** heading. It should currently be something like the official Skyrim layout from Valve, but the exact name doesn't matter. In this area, there should be a link showing the layout name, along with options to view and edit it. Please click on the layout name itself.
-5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *Blind Skyrim Gamepad V. 1 by ON1XN*. Click on it, download/apply the layout, and you should be good to go!
+5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim Gamepad V. 1 ON1XN"*. Click on it, apply layout, and done.
 
 Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim Gamepad V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
-
-If for any reason you can't get the layout, you can probably Google how to install a Steam Input layout. I'm not an expert at this either, LOL! But I hope the step-by-step guide above helps you out.
 
 ---
 
@@ -90,11 +88,11 @@ I need to warn you beforehand: these hotkeys only swap your equipped spell or ge
 
 1. Before creating hotkeys and using this layout, you'll want to rebind **F5** (Quick Save), **F9** (Quick Load), and **F12** (Steam Screenshot) to something else. Otherwise, you might run into issues using this input layout.
 
-* **Changing F12:** Please open your Steam client, go to your library, select Skyrim, and click on the "Manage" button. After that, click on "Properties." You'll see an option that says "Enable the Steam Overlay while in-game." Uncheck that box.
+**Changing F12:** Please open your Steam client, go to your library, select Skyrim, and click on the "Manage" button. After that, click on "Properties." You'll see an option that says "Enable the Steam Overlay while in-game." Uncheck that box.
 
-* **Note for NVDA users:** Please ensure you don't have the *Speech history review* add-on installed on your NVDA. If you do (like me), please change its shortcut key to something else.
+**Note for NVDA users:** Please ensure you don't have the *Speech history review* add-on installed on your NVDA. If you do (like me), please change its shortcut key to something else.
 
-* **Changing F5 and F9:** This can be done very easily in the in-game control settings. Just use your keyboard to go to Settings > Controls, look for the Quick Save and Quick Load keys, and rebind them to something else. I personally use `[` and `]` respectively. You can follow my setup or rebind them to any keys you don't use at all on your keyboard. And as a reminder, we never recommend using Quick Save and Auto Save in Skyrim anyway, heheheh.
+**Changing F5 and F9:** This can be done very easily in the in-game control settings. Just use your keyboard to go to Settings > Controls, look for the Quick Save and Quick Load keys, and rebind them to something else. I personally use `[` and `]` respectively. You can follow my setup or rebind them to any keys you don't use at all on your keyboard. And as a reminder, we never recommend using Quick Save and Auto Save in Skyrim anyway, heheheh.
 
 
 2. In-game, add your desired spell, item, potion, or equipment to the favorite menu. I guess you already know how to do this.
@@ -148,7 +146,7 @@ Furthermore, you can press the hotkey twice to equip the spell to your right han
 ## Known issues
 
 
-This is a minor issue, but I wanted to mention it here in case you encounter it. (Because I saw it sometimes. as well.)
+This is a minor issue, but I wanted to mention it here in case you encounter it. (Because I saw it sometimes as well.)
 
   If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
   

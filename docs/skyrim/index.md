@@ -50,20 +50,20 @@ To make this list easier to navigate, the accessible mods are split into subcate
 #### Immersion
 
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**
-  * **Description:** This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 400 to 700 lines depending on the voice pack). Your character will react to their environment—commenting on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies.
-  * *A dedicated guide and recommended voice packs are coming soon!*
+  **Description:** This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 400 to 700 lines depending on the voice pack). Your character will react to their environment—commenting on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies.
+  A dedicated guide and recommended voice packs are coming soon!
 
 #### Weapons, Armor, and Spells
 
 * **[Katana Crafting SE](https://www.nexusmods.com/skyrimspecialedition/mods/5306)**
-  * **Description:** As the name suggests, this mod adds craftable Japanese Katanas to Skyrim. It is extremely well-balanced, with katanas swinging only 0.2 to 0.5 times faster than vanilla swords.
+  **Description:** As the name suggests, this mod adds craftable Japanese Katanas to Skyrim. It is extremely well-balanced, with katanas swinging only 0.2 to 0.25 times faster than vanilla swords.
 
 #### Miscellaneous
 
 * **[JS Unlock Everything SE](https://www.nexusmods.com/skyrimspecialedition/mods/53159)**
-  * **Description:** If you are tired of the lockpicking minigame, this mod is your best friend. It automatically bypasses the minigame, and you can configure it via the MCM (Mod Configuration Menu) to still award lockpicking EXP and consume lockpicks as usual.
+  **Description:** If you are tired of the lockpicking minigame, this mod is your best friend. It automatically bypasses the minigame, and you can configure it via the MCM (Mod Configuration Menu) to still award lockpicking EXP and consume lockpicks as usual.
 * **[Simple Mod Item Spawner](https://www.nexusmods.com/skyrimspecialedition/mods/64653)**
-  * **Description:** Highly recommended if you install custom weapons, armor, or clothing mods, as many of them do not include crafting recipes. While it is primarily used for modded items, you can always use standard console commands if you want to spawn vanilla potions or gear.
+  **Description:** Highly recommended if you install custom weapons, armor, or clothing mods, as many of them do not include crafting recipes. While it is primarily used for modded items, you can always use standard console commands if you want to spawn vanilla potions or gear.
 
 ---
 
@@ -72,7 +72,7 @@ To make this list easier to navigate, the accessible mods are split into subcate
 These are mods that are either highly incompatible with Skyrim Access or outright impossible to navigate as a blind player:
 
 * **ENBs and Community Shaders**
-  * **Why it's not recommended:** Aside from being heavy on your GPU/CPU, they are incredibly tedious to set up. Community Shaders are slightly easier to manage than ENB, but they can still cause silent errors or shader compilation issues that you won't easily notice without a sighted friend looking at your screen. 
+  **Why it's not recommended:** Aside from being heavy on your GPU/CPU, they are incredibly tedious to set up. Community Shaders are slightly easier to manage than ENB, but they can still cause silent errors or shader compilation issues that you won't easily notice without a sighted friend looking at your screen. 
   * Furthermore, both ENBs and Community Shaders use the **End** key by default to open their in-game GUI, which directly conflicts with Skyrim Access keybinds. Many of them do not offer an easy way to rebind this key. *(I might wrestle with this again in the future just so I can share pretty screenshots with my sighted friends, but that's a project for another day!)*
 * **Gamepad Utility Mods (e.g., Wheeler - Quick Action Wheel, Gamepad++, Serio's Cycle Hotkeys, iEquip)**
   * **Why it's not recommended:** These mods are completely inaccessible or break Skyrim Access's input translation. It is much better to avoid them, and use my custom Steam Input layout instead.
