@@ -26,7 +26,7 @@ You can found the official Skyrim access mod links here:
 ## Guides
 
 * **[Skyrim Input Layout, and the blind mage happy meal (Input Layout & how to set up hotkeys for controllers)](guides/input_layout.md)**
-* **[Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up + recommended voice packs)](guides/pch.md)
+* **[Finally have damage voice lines, and wow this little dragonborn complain a lot (PC Head Tracking and Voice Type SE set up + recommended voice packs)](guides/pch.md)**
 
 ---
 

@@ -1,6 +1,6 @@
 # PC Head Tracking and Voice Type SE: A Mini-Guide for Blind Players by ON1XN
 
-If you feel like your character is too quiet, even if you aren't exactly a Tsundere type—why is that? Sure, you could roleplay by shouting "aaaah" in your own room, but that can sound a bit awkward, especially when you're playing a female character!  (And the vanilla sounds are ugry)
+If you feel like your character is too quiet, even if you aren't exactly a Tsundere type, why is that? Sure, you could roleplay by shouting "aaaah" in your own room, but that can sound a bit awkward, especially when you're playing a female character!  (And the vanilla sounds are ugry)
 
 So, here you go, my mischievous blind friends, the **PC Head Tracking and Voice Type SE** mod (which I'll call **"PCH"** from now on). With this mod, your character will become much more talkative. They will comment on the weather, speak during map transitions, shout when attacking or casting spells, and so much more. Honestly, you might end up loving to hear them speak more than real people!
 
@@ -25,7 +25,7 @@ Once installed, it's time to set things up in-game. (If you're wondering where t
 2. Click on it, then press the Right Arrow or Right D-pad to enter the settings page. From there, use Up and Down to browse the options.
 3. Move down once to find **"ON/OFF: off"** and toggle it **ON**. Otherwise, the mod won't work. Why am I stating the obvious? Just to annoy someone, of course...
 
-> 💡 **Note:** If you don't plan on using custom voice packs downloaded from the internet, you are actually completely done here! It's that simple. If you *do* want to use custom voice packs, keep reading.
+> **Note:** If you don't plan on using custom voice packs downloaded from the internet, you are actually completely done here! It's that simple. If you *do* want to use custom voice packs, keep reading.
 
 4. Press Right again to go to the **Preferences** tab, then scroll down until you find **"B.Y.O. Voice Type"** (Bring Your Own Voice Type). Move down one more time to find its toggle and switch it **ON**. Now you're fully set up!
 
@@ -43,9 +43,9 @@ Here are a few options worth exploring depending on your personal taste:
 
 ## Recommended Voice Packs
 
-Before downloading any packs, let's talk about the load order. Just place them after the required mods mentioned above. If you download multiple voice packs, **only enable one at a time**, because the MCM doesn't let you browse through multiple installed packs simultaneously. Sometimes, switching voice packs on the same save file can cause tiny audio glitches for certain sounds, but it's very rare. Generally, it is perfectly safe to swap voice packs during an ongoing playthrough.
+Before downloading any packs, let's talk about the load order. Just place them after the required mods mentioned above. If you download multiple voice packs, **only enable one at a time**, because the MCM doesn't let you browse through multiple installed packs simultaneously. If you enabled every voice packs at once, only the most last one in load order active. Sometimes, switching voice packs on the same save file can cause tiny audio glitches for certain sounds, but it's very rare. Generally, it is perfectly safe to swap voice packs during an ongoing playthrough.
 
-> **A Quick Note:** About 95% of custom voice packs are made for female characters. If you a a male and don't want to play female character for any reasons, feel free to skip these. However, I did find one great male pack listed below. 
+> **A Quick Note:** About 95% of custom voice packs are made for female characters. If you're a male and don't want to play female character for any reasons, feel free to skip these. However, I did find one great male pack listed below. 
 Also, if you are against AI-generated work (honestly, me too when it comes to the art field), you might want to pass on these. Around 80–90% of high-quality voice packs use AI voices. That said, the creators of these packs care immensely about the final product. Every pack I've tested and recommended here sounds amazing, fits the real game dialogue perfectly, and doesn't sound out of place next to the vanilla dubbing. They even tuned the EQ properly so you barely notice it's AI.
 
 Here are the voice packs I currently use, have tested, and highly recommend:
@@ -68,7 +68,7 @@ Here are the voice packs I currently use, have tested, and highly recommend:
   This pack might have a small download and endorsement count on Nexus, but don't let those numbers fool you. The quality is easily on par with the packs mentioned above. It does the exact same things and features hundreds of lines, the only minor downside is that she won't whisper softly while sneaking like Valerie does. I can't praise this pack enough. Both of its variations are excellent: Voice Type A gives off energetic, active, sporty anime girl vibes, while Voice Type B is a Kuudere type—imagine an expressionless, slightly monotone ice queen on the student council. It sounds younger and very cute. If you download this one, please endorse the author, they are a total underdog!
 
 
-* **[PC Head Tracking B.Y.O. - Kasumi (Priconne)](https://www.nexusmods.com/skyrimspecialedition/mods/95528)**
+* **[PC Head Tracking B.Y.O. - Kasumi (Priconne)](https://www.nexusmods.com/skyrimspecialedition/mods/95528)**, 
   Another good Japanese voice option. While it might not have the massive scope of the other packs I mentioned, it's great because the lines are voiced by Inori Minase-san, one of my favorite Seiyuu (and her music is great too!). This recommendation is purely based on my personal bias for her work, but it's still a fun choice.
 
 ---
