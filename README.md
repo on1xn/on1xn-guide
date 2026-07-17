@@ -46,3 +46,16 @@ To suggest, request or ask me a question, please text me through these platform:
 [Steam](https://steamcommunity.com/id/on1xn/)
 
 ---
+
+## 📜 License & Project Policy
+
+I know it's a bit of extra reading, but I'd really appreciate it if you could take a moment to read the project's **License** and **Project Policy**, before contributing.
+
+These documents exist to help keep the project healthy, set clear expectations, and avoid misunderstandings. My goal is to make this documentation freely available while ensuring everyone's work is respected.
+
+* 📜 [License](./LICENSE.md)
+* 🧭 [Project Policy](./PROJECT_POLICY.md)
+
+Thank you for your understanding and for helping this project ❤️
+
+---
