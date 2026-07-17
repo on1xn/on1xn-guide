@@ -37,7 +37,7 @@ However, please keep a thing in mind:
 
 
 * **Game Availability:** I cannot accept every single request. To be completely transparent, I am not a wealthy person and cannot afford to buy every requested game. Unless you are willing to purchase the game for me, I might not be able to cover it. I hope you understand!
-* **Handheld Support:** The same limitation applies to handheld devices like the Steam Deck, ASUS ROG Ally, or Lenovo Legion Go. Since I do not own these devices, I cannot provide direct technical support or optimization for them. But my Steam Input Layout should be accessible regardless the platform. As long as you're using Steam, everything should be perfectly fine.
+* **Handheld Support:** The same limitation applies to handheld devices like the Steam Deck, and ASUS ROG Ally. Since I do not own these devices, I cannot provide direct technical support or optimization for them. But my Steam Input Layout should be accessible regardless the platform. As long as you're using Steam, everything should be perfectly fine.
 
 
 Thank you for stopping by, and I hope these layouts and guides help you enjoy your gaming!
@@ -47,15 +47,19 @@ Thank you for stopping by, and I hope these layouts and guides help you enjoy yo
 ## Game guides & Input Layouts!
 
 
-* [The Elder V: Skyrim Special Edition / Aniversary Edition](skyrim/index.md) (Guide and Input Layout)
+* **[The Elder V: Skyrim Special Edition / Anniversary Edition](skyrim/index.md) (Guide and Input Layout)**
 
 ---
 
-## Contact me
+## Contact me & Contribute To The Project
 
 
 To ask a question or request a guide / input layout
 :
 [Discord](https://discord.com/) @on1xn\_th, 
 [Steam](https://steamcommunity.com/id/on1xn/)
+
+
+If you'd like to contribute to the project, please visit this project github: 
+[Okasi Project](https://github.com/on1xn/okasi)
 

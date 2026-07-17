@@ -14,6 +14,7 @@ Yes, I have mapped every single Skyrim Access keybind that used to be exclusive 
 Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it works perfectly for me.
 
 > **Note 1:** This layout is not just for a blind mage, you can assign these extra hotkeys to potions, equipment, or any items the game allows you to add to the favorite menu.
+
 > **Note 2:** I created this layout using my Xbox controller. If you're using a PS4 or PS5 controller, I assume everything should work as expected too, since Steam supports them. The only difference here is that I'll be using Xbox notation for each keybind.
 
 ---
@@ -42,11 +43,16 @@ After both mods have been installed and enabled in your choice of mod manager, y
 
 
 1. Open Steam, go to your library, and select Skyrim.
+
 2. Look for the **"Configure Controller"** button, which is located below the Play and Manage buttons, and click on it.
+
 3. Find **"Using the game's built-in support Enable Steam Input"** and click on it. Your NVDA should now read: *"Using Steam Input Translation Disable Steam Input"*. Oh, you're almost there!
 And you may need to press NVDA + space to out from their browse mode to move around. If you can't find the text I mentioned on this page. Actually next step too.
+
 4. Click the link under the **"Current Button Layout"** heading. It should currently be something like the official Skyrim layout from Valve, but the exact name doesn't matter. In this area, there should be a link showing the layout name, along with options to view and edit it. Please click on the layout name itself.
+
 5. On this page, look for the search tab and type **"Blind Skyrim"** into the search box. You should see *"The Elder Scrolls V: Skyrim Special Edition: Blind Skyrim Gamepad V. 1 ON1XN"*. Click on it, apply layout, and done.
+
 
 Now, under "Current Button Layout," it should display the layout name as "Blind Skyrim Gamepad V. 1," meaning you're officially done. If it doesn't show up, click the link again and try looking under the "Your layouts" tab. However, I don't think you'll need to do that.
 
@@ -58,9 +64,11 @@ Some of these explanations are taken from the official mod's manual. I assume yo
 
 I highly recommend keeping the official mod's GitLab or manual open to read along for the full list of keybinds you need to know.
 
-Here's the official Skyrim Access GitLab to read along: [Skyrim Access](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAcces)
+[Here's the official Skyrim Access GitLab to read along](https://gitlab.com/SkyrimAccessibilityProject/SkyrimAcces)
 
 > **A Big Warning:** You should NOT remap any default keys in the MCM (Mod Configuration Menu) of the Skyrim Access mod. Otherwise, it will break and won't work properly. Moreover, if you do, I'll bite you.
+
+### Keybinds
 
 * **Right + A** = Report of the selected object.
 * **Right + B** = Open journal.
@@ -76,7 +84,7 @@ Here's the official Skyrim Access GitLab to read along: [Skyrim Access](https://
 
 Actually, I could have mapped some keybinds to RB, LT, and RT to make them easier and more intuitive, but those are attack keys. During my testing, there were minor situations where I accidentally used a weapon, spell, or shout. Yes, and then the guards or nearby NPCs turned around to bite me, or I accidentally swung my Katana at them! Therefore, I decided to block those attack keys. Although those accidents didn't happen often, it's definitely better to avoid them altogether.
 
-And I didn't include the quest-guide authoring feature here, because it doesn't affect my gameplay much.
+And I didn't include the quest-guide authoring feature here, because it doesn't affect my gameplay.
 
 ---
 
@@ -113,11 +121,9 @@ Although it doesn't support accessibility at the moment I made this layout, who 
 
 Actually, **F6 through F12** are used by some graphics or photo mode mods, but I assume blind players don't install those mods anyway. (Although I installed them... hmm... what a weird blind?) So this shouldn't be a problem for most players. 
 
-> **Small Note:** If you close and reopen the game and check your favorite menu again, it won't explicitly display the hotkeys you created. But don't be afraid! Everything still works perfectly fine. It just won't announce them like it used to, so you'll need to remember what you've mapped to these hotkeys by yourself. Unfortunately, my poor brain can't remember all 18 hotkeys I made either, waaaa!
+---
 
-This might just be an issue on my game, you might see the hotkey labels or you might not see them at all, I'm not sure. Since I have nearly 100 mods installed, one of them might be causing this without actually breaking my game. Everything should be perfectly fine in your case, I suppose.
-
-### Here are the combinations you need to remember to access the hotkeys you created above:
+### Here are the combinations you need to remember to access the hotkeys you created above
 
 * **Left + A** = Hotkey 1
 * **Left + B** = Hotkey 2
@@ -138,7 +144,9 @@ This might just be an issue on my game, you might see the hotkey labels or you m
 * **Left + RS click** = Hotkey F11
 * **Left + Start** = Hotkey F12
 
-How to use it in real action: Assuming I assigned Fireball to Hotkey 1, when I press **Left + A**, my character will equip Fireball instantly, and I can press **LT** to cast it normally.
+#### How to use it in real action
+
+Assuming I assigned Fireball to Hotkey 1, when I press **Left + A**, my character will equip Fireball instantly, and I can press **LT** to cast it normally.
 
 It works exactly the same way for weapons. I can assign my sword to Hotkey F5 and my bow to Hotkey F11. When I want to switch between them, I just press **LS click + X** or **Left + RS click** respectively to swap weapons on the fly. And of course, after switching, you can press **RT** to swing or shoot as usual.
 
@@ -148,16 +156,18 @@ Furthermore, you can press the hotkey twice to equip the spell to your right han
 
 ## Known issues
 
+These are minor issues, but I wanted to mention it here in case you encounter it. (Because I saw it sometimes as well.)
 
-This is a minor issue, but I wanted to mention it here in case you encounter it. (Because I saw it sometimes as well.)
+* When you close and reopen the game and check your favorite menu again, it won't explicitly display the hotkeys you created. But don't be afraid! Everything still works perfectly fine. It just won't announce them like it used to, so you'll need to remember what you've mapped to these hotkeys by yourself. Unfortunately, my poor brain can't remember all 18 hotkeys I made either, waaaa!
 
-  If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
-  
-  If you did, you can easily fix this by rebuilding your hotkeys following the instructions in the section above. Setting up the hotkeys again will overwrite and delete the old, accidental mappings, restoring your Left/Right D-pad buttons to their intended behavior in this layout.
+> Note: This might just be an issue on my game, you might see the hotkey labels or you might not see them at all, I'm not sure. Since I have nearly 100 mods installed, one of them might be causing this without actually breaking my game. Everything should be perfectly fine in your case, I suppose.
+
+* If your Left or Right D-pad buttons stop functioning properly, please open your favorite menu and make sure you haven't accidentally assigned a hotkey to them. (Holding left / right D pad here will create a hotkey to the controller, so be careful)
+
+If you did, you can easily fix this by rebuilding your hotkeys following the instructions in the section above. Setting up the hotkeys again will overwrite and delete the old, accidental mappings, restoring your Left/Right D-pad buttons to their intended behavior in this layout.
 
 ---
 
 ## Final words
-
 
 Thanks for reading this long guide. I hope you like it and enjoy playing Skyrim Access without having to touch a keyboard. But don't forget: take your keyboard out for a date. Don't let a girl (your keyboard) cry!
