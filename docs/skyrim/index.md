@@ -42,6 +42,10 @@ To make this list easier to navigate, the accessible mods are split into subcate
 
 #### Immersion
 
+* **[AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654)**, 
+This mod makes vanilla NPCs act much more realistically by giving them proper daily schedules. Instead of wandering aimlessly, they now go to work, head out to eat, and go to sleep at midnight. It benefits blind players because it makes the towns feel like living, breathing places. It also makes playing as a thief a bit easier, because you to only worry about dodging the patrolling guards.
+
+
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
 I highly recommend to install. This mod brings your character to life by adding attack grunts, jump sounds, and custom voice lines (ranging from 50 to 500 lines (some voicepacks can up to 700, they said.) depending on the voice pack). Your character will comment on the current weather, speaking during map transitions, uttering spell names, or shouting at enemies. In general it's not hard to set up, if you're get used to the **Skyrim Access MCM**. Just turn on the B.Y.o. feature there and you're ready.
 
