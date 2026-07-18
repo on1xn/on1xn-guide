@@ -1,17 +1,16 @@
-
-# Blind Skyrim Gamepad Layout V. 1 by ON1XN
-
-This Steam Input layout aims to enhance your gameplay with the Skyrim Access mod and make a mage playthrough much easier.
+# Even A Blind Can Control The Skyrim, Controller Guide by ON1XN
 
 If you're playing the Skyrim Access mod with a controller, you've probably encountered situations where you have to move your hands to your lovely keyboard to perform certain actions that the controller can't handle. For example, pressing "B" to check enemy health, "Shift + O" to set a navigation object, and other actions. In my opinion, it isn't a smooth experience.
 
 Unfortunately, many gamepad mods on Nexus aren't accessible for Skyrim Access. That's why I decided to create this Steam Input layout to suit my own needs. Who knows? Someone else might benefit from this layout too, enjoying their controller experience without a complex setup. (This may complex any way. But easier than manual set up or mess around with mods like I did.)
 
-As far as I'm concerned, with this layout, you won't need to touch your pouting keyboard at all. (Since you aren't touching your keyboard, she's going to pout—so don't forget to take your keyboard out on a date after playing Skyrim!) 
+As far as I'm concerned, with this layout, you rarely to touch your pouting keyboard. (Since you aren't touching your keyboard, she's going to pout, so don't forget to take your keyboard out on a date after playing Skyrim!) 
 
 Yes, I have mapped every single Skyrim Access keybind that used to be exclusive to the keyboard into this layout. As long as they don't change the default keybinds in the future, everything should work perfectly.
 
-Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it works perfectly for me.
+However, there are a few situations the controller doesn't go as expect for my case, and probably yours as well. Please keep this in mind, and roughly 95% in the game can be done with my input layout.
+
+Plus, you get a total of 18 extra hotkeys to create crazy combos! That should be more than enough for most players, I suppose. At least, it's more than enough for me.
 
 > **Note 1:** This layout is not just for a blind mage, you can assign these extra hotkeys to potions, equipment, or any items the game allows you to add to the favorite menu.
 

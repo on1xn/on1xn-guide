@@ -1,61 +1,36 @@
-# 🧅 ON1XN Guides & Steam Input Layouts For The Blinds!
+# 🍪 Okasi Project: Ridiculous Guides & Modlists for Blind
 
-Welcome! This project provides custom Steam Input layouts information and gameplay guides designed specifically for visually impaired players. 
+Welcome! This project is a personal archive designed to preserve my gaming knowledge and mod setups. 
 
-Many accessibility mods are built only with keyboard users in mind. This project aims to bridge that gap, bringing a smooth controller experience to PC and handheld gaming.
+Since I have a poor memory and tend to forget things easily, this collection helps me quickly redownload mods or recall how to configure certain settings / set up / to do certain tasks in games after a break or when switching computers. 
 
----
-
-## 😕 What's A Weird Project name?
-
-The name of this project comes from the Japanese word **"お菓子" (Okashi)**, which means "snacks." 
-
-If you add another "i" to the end to make it **"Okashii"**, the meaning shifts to **"funny"** or **"ridiculous."**
-
-This wordplay reflects the vision behind this project. Just like how we enjoy eating snacks in our free time, we play games for the same simple pleasure. At the same time, some people might look at what I've built here and think it's a bit ridiculous, wondering, *"Why even bother doing all this?"* 
-
-In addition, the name is a combination of **"ON1XN guides and Steam Input Layouts."**
-
-By taking the first letter of each word in the phrase, I formed the basis of the project's name. Then I replaced the "G" (from Guides) with a "K" because of their similar sounds. (Yes, even a little)
-
-> "si" sharing the same sound as "shi" in Japanese.
+If these guides happen to save you, I'm happy to share! 
+And everything is written in a format that anyone can easily follow. (Many guides I made are for upper / intermediate level though)
 
 ---
 
-## 🎮 Features
+## 😕 What's with the weird project name?
 
-* **Controller-Friendly Layouts:** Steam Input configurations mapped specifically to work seamlessly with accessibility mods.
-* **Handheld Ready:** Optimized to enhance the gaming experience on devices like the Steam Deck, ASUS ROG Ally, and similar devices.
-* **Detailed Guides:** Written for upper-beginner to advanced players, focusing on gameplay, moding or other topics that usually blind gamer may not do it.
+The name comes from the Japanese word **"お菓子" (Okashi)**, which means "snacks." 
 
-> **Note:** All guides are specifically for **Windows + the NVDA screen reader**. They're not fully apply to JAWS or other platforms like GOG and epic store. And I can answer only questions on Windows, NVDA and Steam.
+If you add another "i" to the end to make it **"Okashii"** (with "si" sharing the same sound as "shi"), the meaning shifts to **"funny"** or **"ridiculous."**
 
 ---
 
-## 🤝 Contributions
+## 🤝 Contributions & Contact
 
-Feel free to collaborate, suggest improvements, or share your own guides to help expand this project! (Of course, I'll review it before pushing to the site.)
+While the current scope focuses on my personal gaming hobbies, I welcome anyone who wants to collaborate. Feel free to suggest improvements or share your own guides and modlist.
 
-[Read contribution guide line here](contribution.md)
-
----
-
-## 📩 Contact me
-
-To suggest, request or ask me a question, please text me through these platform: [Discord](http://discord.com/) @on1xn_th, 
-[Steam](https://steamcommunity.com/id/on1xn/)
+* 📝 [Read the Contribution Guidelines here](contribution.md)
+* 💬 **Contact Me:** Reach out via **Discord (@on1xn_th)** or connect on **[Steam](https://steamcommunity.com/id/on1xn/)**.
 
 ---
 
 ## 📜 License & Project Policy
 
-I know it's a bit of extra reading, but I'd really appreciate it if you could take a moment to read the project's **License** and **Project Policy**, before contributing.
-
-These documents exist to help keep the project healthy, set clear expectations, and avoid misunderstandings. My goal is to make this documentation freely available while ensuring everyone's work is respected.
+Before contributing, please take a quick moment to read through the project's documents. They help keep the project organized, set clear expectations, and protect everyone's hard work.
 
 * 📜 [License](./LICENSE.md)
 * 🧭 [Project Policy](./PROJECT_POLICY.md)
-
-Thank you for your understanding and for helping this project ❤️
 
 ---
