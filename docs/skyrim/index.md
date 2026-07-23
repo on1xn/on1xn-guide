@@ -41,7 +41,23 @@ To make this list easier to navigate, the accessible mods are split into subcate
 #### Immersion
 
 * **[AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654)**, 
-This mod makes vanilla NPCs act much more realistically by giving them proper daily schedules. Instead of wandering aimlessly, they now go to work, head out to eat, and go to sleep at midnight. It benefits blind players because it makes the towns feel like living, breathing places. It also makes playing as a thief a bit easier, because you to only worry about dodging the patrolling guards in the night.
+This mod makes vanilla NPCs act much more realistically by giving them proper daily schedules.
+
+
+* **[Relationship Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/1187)**, 
+Adds over 5,000 lines of completely voiced dialogue for NPCs using the original voices. Friends, followers, spouses, rivals, and others have much more to say. All default voices now have follower dialogue. Also fixes dialogue bugs and restores cut dialogue that has never been heard before. I highly recommend both first playthrough and second run.
+
+
+* **[Guard Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22075)**, 
+More Dialogue, More Realism, More Respect. This Mod alters the Guard Dialogue, changing it from something that breaks your immersion in the world of Skyrim to something that actually increases it. All in the original voices and Fully compliant with Skyrim Lore. Another highly recommend, if you installed RDO, no reason to avoid this one.
+
+
+* **[True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472)**, 
+New thunder sounds are realistic, it's very similar to the real storms in our life I must say. Plus finally you hear a rain sound in the building while the vanilla game you can't. I just love this and highly recommend you blinds to install.
+
+
+* **[Lightning During Storms](https://www.nexusmods.com/skyrimspecialedition/mods/8778)**, 
+If you installed True storms, please install this one as well. Now another new natural sounds and lightning strikes. Both installed, and your storms will be much more intense and realistic.
 
 
 * **[PC Head Tracking and Voice Type SE](https://www.nexusmods.com/skyrimspecialedition/mods/11993)**, 
@@ -56,6 +72,35 @@ Voice packs I recommended:
 
 * **[Smart Talk](https://www.nexusmods.com/skyrimspecialedition/mods/161500)**, 
 This mod enhances the flow of in-game dialogues. It introduces natural, realistic pauses between dialogue lines so NPCs don't talk over each other, and it reorders your conversation choices. With this mod, the dialogue options most relevant to your current quest are automatically pushed to the top of the list. If you install the optional files, you can also fully customize these settings via the MCM. I highly recommended as a companion mod, as several PC Head Tracking voice packs actually require or recommend having Smart Talk installed.
+
+#### Gameplay
+
+This section is for the list of mods affect your gameplay. If you want vanilla expreience, please install it accordingly.
+
+* **[Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)**, 
+If you're playing survival mode, I highly recommend this. Now food provides long-lasting buffs to Health, Magicka, or Stamina Regeneration.  I think they try to recreate how we eat and feel full. If you play survival mode, eating uncooked food, there is a chance to give you food poisoning as well heheheh.
+
+#### Followers (Your companion)
+
+This section is for all mods relate to follower system, including custom followers I tried. And please do not install Awesome Follower Tweak, Extensible Follower Framework, and Nether's Follower Framework. They are patially accessible for some features not all, and some mods are totally imaccessible at all. Please use the list below instead to recreate features they offer.
+
+* **[Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017)**, 
+This mod allows you to have up to 8 vanilla followers and they all are essential followers (it means they won't die, yay!) and I'll update if I found a slightly more advance features.
+
+* **[Immortal-Essential Followers](https://www.nexusmods.com/skyrimspecialedition/mods/6278)**, 
+If you want to date, ah no. If you want only one follower at a time, just don't want he / she die by your cruel mission or ultimate spells, you can install this one instead. And please do not install this one with the one above, it will break your game.
+
+
+* **[Follower Equip Control](https://www.nexusmods.com/skyrimspecialedition/mods/175124)**, 
+Now you can set your follower to use specific weapon and force them to cosplay for your heart's content... Yes, you can have a battle maid who serves for you.
+
+
+* **[Followers Ride Horses](https://www.nexusmods.com/skyrimspecialedition/mods/139368)**, 
+Even your eyes can't see, but don't let your heart blind. Now time to give your follower a horse, because the vanilla game they will run on foot no matter what. Although Skyrim Access with horse is something clumcy, I don't see it's a bad thing to give your follower a horse.
+
+
+* **[Swiftly Order Squad](https://www.nexusmods.com/skyrimspecialedition/mods/63259)**, 
+This mod will help you command all followers at once by pressing the hotkey you setted in the MCM. The custom interface they made isn't accessible at all, good they create a hotkey to all of their functions.
 
 #### Weapons & Spells
 
@@ -79,12 +124,57 @@ They recreate Megumin's signature magic, the staff uses all of its charges in a 
 
 #### Miscellaneous
 
+* **[Call Your Horse](https://www.nexusmods.com/skyrimspecialedition/mods/49595)**, 
+This mod added a new power to your magic and spell menu to call a horse, and that's all. Very simple, but really useful and fully accessible.
+
+
+* **[Extra Dimensional Storage](https://www.nexusmods.com/skyrimspecialedition/mods/19766)**, 
+If you've seen the magic box in the anime, this is the same thing. Plus you can access a chest shared between all characters  as long as both save have installed this mod. However, you can open this magic box only once a day.
+
+
 * **[JS Unlock Everything SE](https://www.nexusmods.com/skyrimspecialedition/mods/53159)**, 
 If you are tired of the lockpicking minigame, this mod is your best friend. It automatically bypasses the minigame, and you can configure it via the MCM (Mod Configuration Menu) to still award lockpicking EXP and consume lockpicks as usual.
 
 
 * **[Simple Mod Item Spawner](https://www.nexusmods.com/skyrimspecialedition/mods/64653)**, 
 Highly recommended if you install custom weapons, armor, or clothing mods, as many of them do not include crafting recipes. While it is primarily used for modded items, you can always use standard console commands if you want to spawn vanilla potions or gear.
+
+#### Visual & Graphic
+
+
+Here are mods focused on graphics. Generally, they aren't very useful for blind players, but there are a few exceptions you can benefit from, such as weather mods.
+
+Also, if you play Skyrim with a sighted partner, friend, or sibling, or if you like taking screenshots for any reason, improving image quality is something you can easily set up yourself without sighted assistance.
+
+##### Weather Mods
+
+Weather mods not only another important key to improve graphic quality (much more than Community Shaders or ENBs in most cases), they add environmental sounds like rain, wind, and thunder that significantly improve audio immersion for blind players as well. Not all weather mods does though.
+
+Currently, I recommend **Azurite Weathers II** or **III**. I will update this list with more options as I find weather mods that offer distinct audio enhancements alongside their visual changes. And the raining sounds also amazing and very natural with this Azurite. I used it before switching to Mythical Ages + True storms I suggested in the list, because mythical ages doesn't come with new sounds.
+
+Oh if you ask me why I switch to mythical ages, I change it because in the community suggest the vibe is close to JRPG, nothing more than that ahahah. If you care only new sounds, stick with Azurite or try something else offer new environment sounds.
+
+##### Graphic Modifications
+
+**[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)**, 
+
+Listing everything this mod offers is tricky because it covers many technical features, and most are graphic only. However, it is essential if you plan to improve your game's visual quality or boost performance on modern systems. 
+
+> Oh, if you're playing on a low-end PC (E.G. A potato computer), this will turn your hardware to a bag of french fires or a baked potato, so avoid installing it if your computer struggles with basic tasks.
+
+I recommend Community Shaders (CS) over ENB a graphics framework that has been popular for over a decade because CS is much easier to install and remove. It requires far fewer compatibility patches and doesn't rely heavily on a strict load order, whereas ENBs often require precise load order management to function correctly.
+
+However, CS comes with an important warning: it fails silently when errors occur. When compiling shaders, it provides no final summary screen for OCR to read. While log files exist, sorting through 30,000–40,000 lines of text can be overwhelming, so you might need a sighted person to check the screen during the compilation process.
+
+To be safe, ensure you have installed all required dependencies listed on the Nexus page, such as Microsoft Visual C++ Redistributable. 
+
+Missing dependencies won't trigger an on-screen warning. For example, when I finished compilation once, the game screen turned bright white while my character turned black and red. It took several AI checks to realize I had simply missed a required dependency.
+
+While ENB crashes the game outright when something goes wrong making errors easier to spot. But Community Shaders is still the better long-term choice due to its simpler load order management.
+
+**A note on add-ons:** Some CS add-ons are outdated. To avoid issues, stick to the main Community Shaders mod awith lighting add-ons if your PC can handle them (such as light replacers, CS Light, True Light, and Window Shadows Ultimate).
+
+**Changing Keybinds:** By default, CS uses the **End** key to open its menu. You can change this key by opening your `overwrite` folder at the bottom of your Mod Organizer 2 (MO2) left panel. Navigate to `SKSE > CommunityShaders` and open `SettingsUser.json`. Search for `"key"` and update the value. Since CS uses standard key codes, you can ask an AI to give you the correct code for your preferred key.
 
 ---
 
@@ -100,12 +190,6 @@ These mods are completely inaccessible or break Skyrim Access's input translatio
 Unfortunately, in the current state of Skyrim Access, the SKSE Menu Framework is not yet supported. Because this mod relies heavily on that framework to function and configure its settings, it is currently completely inaccessible for blind players. I really hope the Skyrim Access developers will implement compatibility for the SKSE Menu Framework in the future so we can finally experience this amazing mod. 
 
 What this mod does? This is a much larger and more ambitious project than PC Head Tracking. While many sighted players use both mods together to maximize their character's voice capabilities, DBVO2 for short, goes a step further by giving your protagonist a fully voiced dialogue system. Instead of your character being a silent hero during conversations, this mod generates high-quality voice lines for every single dialogue option you select, making the storytelling experience incredibly immersive.
-
-
-* **ENBs and Community Shaders**, 
-Not only those are graphical mod that most blind players doesn't get any benefit from them and being heavy on your GPU/CPU, they are incredibly tedious to set up. Community Shaders are slightly easier to manage than ENB, but they can still cause silent errors or shader compilation issues that you won't easily notice without a sighted friend looking at your screen. 
-
-Moreover, both ENBs and Community Shaders use the **End** key by default to open their in-game GUI, which directly conflicts with Skyrim Access keybinds. Many of them do not offer an easy way to rebind this key. (I might wrestle with this again in the future just so I can share pretty screenshots with my sighted friends, but that's a project for another day)
 
 ---
 
